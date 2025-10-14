@@ -54,4 +54,4 @@ This repository contains a data pipeline designed to ingest multiple daily files
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-org/azure-file-ingestion-pipeline.git
+   git clone https://github.com/Stephen-Data-Engineer-Public/Ingesting-and-Transforming-multiple-daily-files-from-a-shared-folder-in-Azure-Cloud.git
