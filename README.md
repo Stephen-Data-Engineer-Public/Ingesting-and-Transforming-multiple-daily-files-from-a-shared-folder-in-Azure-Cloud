@@ -1,5 +1,5 @@
 
-<img width="6092" height="2213" alt="Blank diagram (7)" src="https://github.com/user-attachments/assets/6555c1e1-c187-4aee-b66f-a7de878dba39" />
+<img width="6092" height="2213" alt="Blank diagram (8)" src="https://github.com/user-attachments/assets/5a3947fc-f352-4fd7-aa85-99311591d65d" />
 
 
 # Ingestion and Transformation of Multiple Daily Files from a Shared Folder to Azure Cloud
