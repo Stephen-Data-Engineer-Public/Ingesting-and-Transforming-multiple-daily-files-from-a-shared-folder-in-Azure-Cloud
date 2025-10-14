@@ -39,6 +39,7 @@ This repository contains a data pipeline designed to ingest multiple daily files
    - Performs data cleansing, schema harmonization, and transformation using PySpark notebooks.
    - Supports schema drift handling and incremental loading.
    - Writes processed data back to ADLS in Parquet/Delta formats for optimized analytics.
+   - Unity Catalog to track data lineage on column level.
      
 **5. Azure Synapse Analytics**
    - Serves as the enterprise data warehouse layer.
